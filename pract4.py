@@ -29,7 +29,7 @@ def nQueens(arr,x,n):
             arr[x][col] = 0
     return False
 
-if __name__=="main_":
+if __name__=="__main__":
     n = int(input("Enter number of Queens : "))
     arr = [[0]*n for i in range(n)]
 

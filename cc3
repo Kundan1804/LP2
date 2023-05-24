@@ -1,0 +1,15 @@
+create project
+select projectacticzte cloud shell
+gcloud projects list
+navigate to apis
+enable apis and services click plus icon
+search app engine and select it and enable it
+in concole type gcloud config set project "project ki id"
+gcloud app create
+git clone "koi bhi repo"
+cd appengine
+listcd standard_python3
+cd hello_world
+list
+python3 main.py
+and go to url
